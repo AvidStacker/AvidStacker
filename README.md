@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on just about anything :D.
 - 📫 How to reach me dev.lagerberg@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun Facts: Fun facts are hard to find... 
 
 <!---
 AvidStacker/AvidStacker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
